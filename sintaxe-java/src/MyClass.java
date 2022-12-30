@@ -12,5 +12,6 @@ public class MyClass {
     public static String fullName (String firstName, String secondName){
         return "Method Result: " + firstName.concat(" ").concat(secondName);
     }
+    
 
 }
