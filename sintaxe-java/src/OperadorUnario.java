@@ -5,8 +5,8 @@ public class OperadorUnario {
         //classe Operadores.java
         int numero = 5;
                 
-        //Imprimindo o numero negativo
-        System.out.println(- numero);
+        numero = -numero;
+        System.out.println(numero);
 
         //incrementando numero em mais 1 numero, imprime 6
         numero ++;
